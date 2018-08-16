@@ -12,6 +12,6 @@ public class SampleTest {
 	public void simpleTestFail() {
 		int a=1;
 		int b=2;
-		assertEquals(6,a + b);
+		assertEquals(3,a + b);
 	}
 }
