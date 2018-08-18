@@ -72,7 +72,7 @@ public class TestWMString {
     @Test
     public void testStringLength() throws ServiceException {
         int length = invokeStringLengthService("12345");
-        assertEquals(5, length);
+        assertEquals(9, length);
     }
 
 }
